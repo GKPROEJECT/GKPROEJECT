@@ -10,13 +10,13 @@
 
 I'm a developer who enjoys turning ideas into real projects.
 
-I like building things from the ground up, experimenting with new technologies and understanding how things work under the hood.
+I like building things from the ground up, experimenting with new technologies, and understanding how things work under the hood.
 
-Currently working on personal projects involving **web development, Chromium and Linux**.
+I'm particularly interested in **software development, web technologies, Linux and open-source projects**.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧰 Technologies & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,cpp,react,js,html,css,git,github,docker" />
@@ -26,34 +26,44 @@ Currently working on personal projects involving **web development, Chromium and
 
 ## 🌟 Featured Projects
 
-### 🌐 El rincón del caos
-My personal web project.
-
 ### 🌐 Clary
+
 A Chromium-based browser project focused on creating a customized browsing experience.
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GKPROEJECT&show_icons=true&theme=dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKPROEJECT&layout=compact&theme=dark&hide_border=true" height="170"/>
-</p>
+**Technologies:** C++ · Chromium · Linux
 
 ---
 
-## 🔥 Contribution Streak
+### 🌐 El rincón del caos
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=GKPROEJECT&theme=dark&hide_border=true" />
-</p>
+A personal web project where I experiment with web development and create my own digital space.
+
+**Technologies:** React · JavaScript · HTML · CSS
+
+---
+
+## 💻 What I Like Building
+
+- 🌐 Web applications
+- 🖥️ Desktop software
+- 🌱 Open-source projects
+- 🐧 Linux tools and workflows
+- ⚙️ Custom software
+- 🔬 Experiments and personal projects
+
+---
+
+## 🎯 Currently
+
+I'm currently working on personal projects and exploring new ideas.
+
+I'm especially interested in understanding how software works at a deeper level and turning ideas into working projects.
 
 ---
 
 ## 📫 Contact
 
-📧 **Email:** gimenezbuenogabriel@gmail.com
+📧 **Email:** [gimenezbuenogabriel@gmail.com](mailto:gimenezbuenogabriel@gmail.com)
 
 🌍 **Spain**
 
